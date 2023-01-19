@@ -138,8 +138,9 @@ html {
 .profil .konten p span {
   font-weight: 700;
   font-style: italic;
-  color: rgb(0, 0, 0);
-  text-shadow: 1px 1px 3px rgb(255, 255, 255);
+  color: rgb(255, 48, 48);
+  background-color: rgb(0, 0, 0);
+  padding: 0.1rem;
 }
 
 .profil .konten .halaman-fb {
